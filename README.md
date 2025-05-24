@@ -1,4 +1,5 @@
-*Bitcoin Price Predictor using SARIMAX*
+****Bitcoin Price Predictor using SARIMAX****
+
 Predict Bitcoin prices using SARIMAX (Seasonal ARIMA with eXogenous variables) and advanced feature engineering techniques for improved accuracy.
 
 ***NOTE: this repositoroy contains files that are necessary to exhibit my skills and not the whole working project.***
